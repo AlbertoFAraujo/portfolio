@@ -1,10 +1,10 @@
 title: Alberto Araujo
 #logo: /assets/img/perfil.png.jpg
 description: MBA USP/Esalq Data Science & Analytics e Data Scientist Student
-description: LinkedIn
-logo: /assets/icons/linkedin.svg
 show_downloads: false
 theme: jekyll-theme-minimal
+email: albertoferreiraaraujo@gmail.com
+github_username: AlbertoFAraujo
 
 # Redes Sociais
 social:
