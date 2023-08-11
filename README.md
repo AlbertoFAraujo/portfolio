@@ -1,3 +1,8 @@
-# portfolio
+# Data Scientist
 
-## Olá Bem vindo
+### Education
+
+### Work experience
+Data scientist in 
+- Big Data
+- Python library Data Science
